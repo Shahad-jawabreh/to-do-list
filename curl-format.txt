@@ -1,0 +1,9 @@
+\n
+URL: %{url_effective}\n
+Status Code: %{http_code}\n
+Total Time: %{time_total} s\n
+DNS Lookup: %{time_namelookup} s\n
+Connect Time: %{time_connect} s\n
+Start Transfer: %{time_starttransfer} s\n
+Size Download: %{size_download} bytes\n
+\n
